@@ -1,0 +1,38 @@
+a {
+    color: #676767;
+    text-decoration: underline;
+}
+
+.team-heading {
+    background-color: #006e73;
+    color: #ffffff;
+}
+
+.h1, h1 {
+    font-size: 4rem;
+}
+
+.employee-card {
+    margin: 1rem;
+    min-height: 350px;
+}
+
+.manager-header {
+    background-color: #ffdddd;
+}
+
+.engineer-header {
+    background-color: #cae1ef;
+}
+
+.intern-header {
+    background-color: #c0e6ca;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.col-3 {
+    padding: 0px;
+}

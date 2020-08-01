@@ -31,7 +31,6 @@ function getTeam() {
                         choices: ["Manager", "Engineer", "Intern"]
                     }
                 ]).then( async answer => {
-                    console.log(answer.employeeRole);
                     if (answer.employeeRole === "Manager") {
                         await inquirer.prompt([
                             {
